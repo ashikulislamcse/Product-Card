@@ -1,5 +1,6 @@
 import React from 'react'
-import ProductCard from './components/PproductCard.jsx'
+import ProductCard from './components/productCard'
+
 const App = () => {
   return (
     <>
